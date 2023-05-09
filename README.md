@@ -4,7 +4,7 @@
 A custom password generator which will generate encrypted passwords based on single input phrase.
 
 Using multiple encryption algorithms like sha256, sha384, sha512, sha224, etc.
-
+gcfjhc,j
 
 ## Installation
 
